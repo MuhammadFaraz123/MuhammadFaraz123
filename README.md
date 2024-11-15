@@ -1,4 +1,4 @@
-<img src="https://github.com/MuhammadFaraz123/MuhammadFaraz123/raw/main/banner_github.jpeg" alt="logo" width="1000" />
+<img src="https://github.com/MuhammadFaraz123/MuhammadFaraz123/blob/main/Faraz%20Banner.png" alt="logo" width="1000" />
 
 <h1 align="center">Hi 👋, I'm Muhammad Faraz</h1>
 <h3 align="center">A passionate Data Scientist/AI Engineer with expertise in NLP, MLOps, Computer Vision, and Large Language Models (LLMs).</h3>
